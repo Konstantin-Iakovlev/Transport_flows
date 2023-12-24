@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 import xmltodict
 from pathlib import Path
+from typing import Optional
+from topology_zoo_matching import LINK_TYPE_TO_BANDWIDTH, LINK_NOTE_TO_BANDWIDTH, LINK_LABEL_TO_BANDWIDTH
 
 FLOAT = np.float32
 
@@ -175,3 +177,44 @@ def read_node_coordinates_transport_networks_geojson(filename: Path, metadata: d
 
     update_node_coordinates(node_coords, metadata)
     return node_coords
+
+
+def read_graph_topology_zoo(filename: Path, bandwidth_fill_nan_strategy: Optional[str]=None) -> nx.Graph:
+    graph_from_gml = nx.read_gml(filename, label=None)
+    graph = nx.DiGraph()
+
+    if bandwidth_fill_nan_strategy == None:
+        bandwidth_fill_nan_strategy = "max"
+    if bandwidth_fill_nan_strategy not in ["max", "min"]:
+        raise ValueError(f"Unknown bandwidth_fill_nan_strategy: '{bandwidth_fill_nan_strategy}', expected 'min', 'max' or None")
+
+    for node in graph_from_gml.nodes:
+        graph.add_node(node)
+
+    bandwidth_list = []
+    for edge in graph_from_gml.edges:
+        bandwidth = None
+        params = graph_from_gml.edges[edge]
+        if "LinkSpeedRaw" in params:
+            bandwidth = params["LinkSpeedRaw"]
+        elif "LinkType" in params:
+            bandwidth = LINK_TYPE_TO_BANDWIDTH[params["LinkType"]]
+        elif "LinkNote" in params:
+            bandwidth = LINK_NOTE_TO_BANDWIDTH[params["LinkNote"]]
+        elif "LinkLabel" in params:
+            bandwidth = LINK_LABEL_TO_BANDWIDTH[params["LinkLabel"]]
+        bandwidth_list.append(bandwidth)
+
+    not_none_bandwidth_list = [item for item in bandwidth_list if item is not None]
+    if len(not_none_bandwidth_list) == 0:
+        fill_value = 1.
+    elif bandwidth_fill_nan_strategy == "max":
+        fill_value = max(not_none_bandwidth_list)
+    else:
+        fill_value = min(not_none_bandwidth_list)
+
+    bandwidth_list = [fill_value if item is None else item for item in bandwidth_list]        
+    for edge, bandwidth in zip(graph_from_gml.edges, bandwidth_list):
+        graph.add_edge(edge[0], edge[1], cost=FLOAT(1.), bandwidth=FLOAT(bandwidth))
+
+    return graph
