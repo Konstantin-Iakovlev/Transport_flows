@@ -1,0 +1,56 @@
+{
+    "Barcelona": {
+        "solution": 0.796,
+        "enn_1e-2": 0.131,
+        "enn_1e-3": 0.162,
+        "spec_gap": 0.971
+    },
+    "Winnipeg": {
+        "solution": 0.358,
+        "enn_1e-2": 0.098,
+        "enn_1e-3": 0.123,
+        "spec_gap": 1.347
+    },
+    "EMA": {
+        "solution": 0.525,
+        "enn_1e-2": 0.037,
+        "enn_1e-3": 0.069,
+        "spec_gap": 0.4778
+    },
+    "Anaheim": {
+        "solution": 0.162,
+        "enn_1e-2": 0.131,
+        "enn_1e-3": 0.163,
+        "spec_gap": 0.542
+    },
+    "Berlin-Mitte-Center": {
+        "solution": 0.137,
+        "enn_1e-2": 0.181,
+        "enn_1e-3": 0.206,
+        "spec_gap": 0.332
+    },
+    "Berlin-Friedrichshain": {
+        "solution": 0.406,
+        "enn_1e-2": 0.168,
+        "enn_1e-3": 0.193,
+        "spec_gap": 0.079
+    },
+    "Berlin-Prenzlauerberg-Center": {
+        "solution": 0.09,
+        "enn_1e-2": 0.204,
+        "enn_1e-3": 0.229,
+        "spec_gap": 0.234
+    },
+    "Berlin-Tiergarten": {
+        "solution": 0.411,
+        "enn_1e-2": 0.189,
+        "enn_1e-3": 0.212,
+        "spec_gap": 0.016
+    },
+    "Terassa": {
+        "solution": 0.589,
+        "enn_1e-2": 0.149,
+        "enn_1e-3": 0.169,
+        "spec_gap": 0.053
+    }
+}

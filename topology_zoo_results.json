@@ -1,0 +1,1654 @@
+{
+  "Aarnet.gml": {
+    "enn_1e-2": 0.149,
+    "enn_1e-3": 0.175,
+    "solution": 0.433,
+    "spec_gap": 0.851,
+    "spec_gap_ratio": 844.658
+  },
+  "Abilene.gml": {
+    "enn_1e-2": 0.08,
+    "enn_1e-3": 0.097,
+    "solution": 2.318,
+    "spec_gap": 1.172,
+    "spec_gap_ratio": 5.191
+  },
+  "Abvt.gml": {
+    "enn_1e-2": 0.072,
+    "enn_1e-3": 0.091,
+    "solution": 0.645,
+    "spec_gap": 0.707,
+    "spec_gap_ratio": 5.254
+  },
+  "Aconet.gml": {
+    "enn_1e-2": 0.069,
+    "enn_1e-3": 0.1,
+    "solution": 0.609,
+    "spec_gap": 2.906,
+    "spec_gap_ratio": 1.8074580115833772e+16
+  },
+  "Agis.gml": {
+    "enn_1e-2": 0.159,
+    "enn_1e-3": 0.189,
+    "solution": 0.482,
+    "spec_gap": 0.8,
+    "spec_gap_ratio": 1.2997920845712843e+34
+  },
+  "Ai3.gml": {
+    "enn_1e-2": 0.104,
+    "enn_1e-3": 0.136,
+    "solution": 2.323,
+    "spec_gap": 3.41,
+    "spec_gap_ratio": 1.871397273118937e+33
+  },
+  "Airtel.gml": {
+    "enn_1e-2": -0.002,
+    "enn_1e-3": 0.072,
+    "solution": 1.936,
+    "spec_gap": 6.082,
+    "spec_gap_ratio": 10.445
+  },
+  "Amres.gml": {
+    "enn_1e-2": 0.119,
+    "enn_1e-3": 0.14,
+    "solution": 0.121,
+    "spec_gap": 0.698,
+    "spec_gap_ratio": 5.4241106239842264e+16
+  },
+  "Ans.gml": {
+    "enn_1e-2": 0.071,
+    "enn_1e-3": 0.088,
+    "solution": 0.969,
+    "spec_gap": 1.302,
+    "spec_gap_ratio": 13.549
+  },
+  "Arn.gml": {
+    "enn_1e-2": 0.084,
+    "enn_1e-3": 0.133,
+    "solution": 0.022,
+    "spec_gap": 1.946,
+    "spec_gap_ratio": 4.1271306919377323e+33
+  },
+  "Arnes.gml": {
+    "enn_1e-2": 0.472,
+    "enn_1e-3": 0.554,
+    "solution": 0.047,
+    "spec_gap": 2.556,
+    "spec_gap_ratio": 4.505801984503546e+16
+  },
+  "Arpanet19706.gml": {
+    "enn_1e-2": 0.096,
+    "enn_1e-3": 0.111,
+    "solution": 1.953,
+    "spec_gap": 1.03,
+    "spec_gap_ratio": 3.57
+  },
+  "Arpanet19719.gml": {
+    "enn_1e-2": 0.084,
+    "enn_1e-3": 0.101,
+    "solution": 0.644,
+    "spec_gap": 1.406,
+    "spec_gap_ratio": 9.058
+  },
+  "Arpanet19723.gml": {
+    "enn_1e-2": 0.096,
+    "enn_1e-3": 0.11,
+    "solution": 0.373,
+    "spec_gap": 0.488,
+    "spec_gap_ratio": 9.394
+  },
+  "Arpanet19728.gml": {
+    "enn_1e-2": 0.098,
+    "enn_1e-3": 0.112,
+    "solution": 0.447,
+    "spec_gap": 0.362,
+    "spec_gap_ratio": 6.908
+  },
+  "AsnetAm.gml": {
+    "enn_1e-2": 0.018,
+    "enn_1e-3": 0.101,
+    "solution": 0.065,
+    "spec_gap": 2.394,
+    "spec_gap_ratio": 3.1000758306110736e+33
+  },
+  "Atmnet.gml": {
+    "enn_1e-2": 0.103,
+    "enn_1e-3": 0.118,
+    "solution": 0.456,
+    "spec_gap": 0.574,
+    "spec_gap_ratio": 7.943
+  },
+  "AttMpls.gml": {
+    "enn_1e-2": 0.546,
+    "enn_1e-3": 0.052,
+    "solution": 1.374,
+    "spec_gap": 4.689,
+    "spec_gap_ratio": 13.977
+  },
+  "Azrena.gml": {
+    "enn_1e-2": 0.106,
+    "enn_1e-3": 0.129,
+    "solution": 0.29,
+    "spec_gap": 1.362,
+    "spec_gap_ratio": 8.415485361944433e+32
+  },
+  "Basnet.gml": {
+    "enn_1e-2": 0.848,
+    "enn_1e-3": 0.872,
+    "solution": 0.09,
+    "spec_gap": 2.001,
+    "spec_gap_ratio": 9.280015478515129e+33
+  },
+  "Bbnplanet.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.118,
+    "solution": 0.321,
+    "spec_gap": 0.853,
+    "spec_gap_ratio": 8.731072438366875e+32
+  },
+  "Bellcanada.gml": {
+    "enn_1e-2": 0.071,
+    "enn_1e-3": 0.092,
+    "solution": 0.163,
+    "spec_gap": 0.562,
+    "spec_gap_ratio": 8.263247705555003e+17
+  },
+  "Bellsouth.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.091,
+    "solution": 0.139,
+    "spec_gap": 6.798,
+    "spec_gap_ratio": 9.485371627429673e+33
+  },
+  "Belnet2003.gml": {
+    "enn_1e-2": 0.914,
+    "enn_1e-3": 0.995,
+    "solution": 0.223,
+    "spec_gap": 2.714,
+    "spec_gap_ratio": 6.769849933338974e+33
+  },
+  "Belnet2004.gml": {
+    "enn_1e-2": 0.914,
+    "enn_1e-3": 0.995,
+    "solution": 0.223,
+    "spec_gap": 2.714,
+    "spec_gap_ratio": 6.299644411098213e+33
+  },
+  "Belnet2005.gml": {
+    "enn_1e-2": 0.509,
+    "enn_1e-3": 0.575,
+    "solution": 0.568,
+    "spec_gap": 2.08,
+    "spec_gap_ratio": 5.755607662092082e+33
+  },
+  "Belnet2006.gml": {
+    "enn_1e-2": 0.509,
+    "enn_1e-3": 0.575,
+    "solution": 0.568,
+    "spec_gap": 2.08,
+    "spec_gap_ratio": 3.361449341068609e+33
+  },
+  "Belnet2007.gml": {
+    "enn_1e-2": 0.089,
+    "enn_1e-3": 0.108,
+    "solution": 0.872,
+    "spec_gap": 1.976,
+    "spec_gap_ratio": 10.901
+  },
+  "Belnet2008.gml": {
+    "enn_1e-2": 0.089,
+    "enn_1e-3": 0.108,
+    "solution": 0.872,
+    "spec_gap": 1.976,
+    "spec_gap_ratio": 10.901
+  },
+  "Belnet2009.gml": {
+    "enn_1e-2": 0.089,
+    "enn_1e-3": 0.108,
+    "solution": 0.548,
+    "spec_gap": 1.976,
+    "spec_gap_ratio": 10.901
+  },
+  "Belnet2010.gml": {
+    "enn_1e-2": 0.091,
+    "enn_1e-3": 0.108,
+    "solution": 0.556,
+    "spec_gap": 1.813,
+    "spec_gap_ratio": 24.204
+  },
+  "BeyondTheNetwork.gml": {
+    "enn_1e-2": 0.067,
+    "enn_1e-3": 0.099,
+    "solution": 0.203,
+    "spec_gap": 0.507,
+    "spec_gap_ratio": 1.6912242691579845e+33
+  },
+  "Bics.gml": {
+    "enn_1e-2": 0.056,
+    "enn_1e-3": 0.084,
+    "solution": 0.442,
+    "spec_gap": 2.273,
+    "spec_gap_ratio": 17.749
+  },
+  "Biznet.gml": {
+    "enn_1e-2": 0.093,
+    "enn_1e-3": 0.108,
+    "solution": 0.237,
+    "spec_gap": 0.183,
+    "spec_gap_ratio": 23.381
+  },
+  "Bren.gml": {
+    "enn_1e-2": 0.118,
+    "enn_1e-3": 0.15,
+    "solution": 0.06,
+    "spec_gap": 1.384,
+    "spec_gap_ratio": 7.259234047378284e+32
+  },
+  "BsonetEurope.gml": {
+    "enn_1e-2": 0.065,
+    "enn_1e-3": 0.095,
+    "solution": 1.47,
+    "spec_gap": 2.232,
+    "spec_gap_ratio": 10.788
+  },
+  "BtAsiaPac.gml": {
+    "enn_1e-2": 0.027,
+    "enn_1e-3": 0.077,
+    "solution": 1.574,
+    "spec_gap": 3.773,
+    "spec_gap_ratio": 9.407866576430806e+32
+  },
+  "BtEurope.gml": {
+    "enn_1e-2": -0.011,
+    "enn_1e-3": 0.077,
+    "solution": 1.254,
+    "spec_gap": 5.123,
+    "spec_gap_ratio": 3.7661353540571066e+33
+  },
+  "BtNorthAmerica.gml": {
+    "enn_1e-2": 0.097,
+    "enn_1e-3": 0.056,
+    "solution": 0.633,
+    "spec_gap": 4.094,
+    "spec_gap_ratio": 105.489
+  },
+  "Canerie.gml": {
+    "enn_1e-2": 0.068,
+    "enn_1e-3": 0.095,
+    "solution": 0.482,
+    "spec_gap": 1.612,
+    "spec_gap_ratio": 4.8872783264969576e+32
+  },
+  "Carnet.gml": {
+    "enn_1e-2": 2.474,
+    "enn_1e-3": 2.648,
+    "solution": 0.008,
+    "spec_gap": 2.66,
+    "spec_gap_ratio": 1.8358951232987782e+35
+  },
+  "Cernet.gml": {
+    "enn_1e-2": 0.156,
+    "enn_1e-3": 0.225,
+    "solution": 0.048,
+    "spec_gap": 3.039,
+    "spec_gap_ratio": 1.1623036250971103e+33
+  },
+  "Cesnet1993.gml": {
+    "enn_1e-2": 0.622,
+    "enn_1e-3": 0.658,
+    "solution": 1.147,
+    "spec_gap": 2.116,
+    "spec_gap_ratio": 2.0608088662789608e+33
+  },
+  "Cesnet1997.gml": {
+    "enn_1e-2": 0.112,
+    "enn_1e-3": 0.133,
+    "solution": 1.283,
+    "spec_gap": 1.336,
+    "spec_gap_ratio": 7.455508464752253e+16
+  },
+  "Cesnet1999.gml": {
+    "enn_1e-2": 1.119,
+    "enn_1e-3": 1.166,
+    "solution": 0.358,
+    "spec_gap": 2.052,
+    "spec_gap_ratio": 4.191996832036788e+34
+  },
+  "Cesnet2001.gml": {
+    "enn_1e-2": 0.284,
+    "enn_1e-3": 0.352,
+    "solution": 0.017,
+    "spec_gap": 2.373,
+    "spec_gap_ratio": 2.50774140246547e+34
+  },
+  "Cesnet200304.gml": {
+    "enn_1e-2": 0.627,
+    "enn_1e-3": 0.669,
+    "solution": 0.017,
+    "spec_gap": 0.205,
+    "spec_gap_ratio": 2.775896917314824e+34
+  },
+  "Cesnet200511.gml": {
+    "enn_1e-2": 1.386,
+    "enn_1e-3": 1.486,
+    "solution": 0.005,
+    "spec_gap": 2.049,
+    "spec_gap_ratio": 2.8284336129564804e+34
+  },
+  "Cesnet200603.gml": {
+    "enn_1e-2": 1.386,
+    "enn_1e-3": 1.486,
+    "solution": 0.005,
+    "spec_gap": 2.049,
+    "spec_gap_ratio": 1.7636382147223647e+35
+  },
+  "Cesnet200706.gml": {
+    "enn_1e-2": 0.25,
+    "enn_1e-3": 0.339,
+    "solution": 0.007,
+    "spec_gap": 2.852,
+    "spec_gap_ratio": 2.476397971381033e+35
+  },
+  "Cesnet201006.gml": {
+    "enn_1e-2": 0.104,
+    "enn_1e-3": 0.168,
+    "solution": 0.008,
+    "spec_gap": 1.808,
+    "spec_gap_ratio": 2.3475920136603793e+35
+  },
+  "Chinanet.gml": {
+    "enn_1e-2": 0.069,
+    "enn_1e-3": 0.072,
+    "solution": 0.575,
+    "spec_gap": 6.945,
+    "spec_gap_ratio": 4.205839054209481e+33
+  },
+  "Claranet.gml": {
+    "enn_1e-2": 0.076,
+    "enn_1e-3": 0.102,
+    "solution": 1.006,
+    "spec_gap": 2.772,
+    "spec_gap_ratio": 3.01864073028359e+16
+  },
+  "Cogentco.gml": {
+    "enn_1e-2": 0.079,
+    "enn_1e-3": 0.099,
+    "solution": 0.065,
+    "spec_gap": 1.534,
+    "spec_gap_ratio": 1.3281842364737746e+32
+  },
+  "Columbus.gml": {
+    "enn_1e-2": 0.083,
+    "enn_1e-3": 0.101,
+    "solution": 0.105,
+    "spec_gap": 0.444,
+    "spec_gap_ratio": 21.243
+  },
+  "Compuserve.gml": {
+    "enn_1e-2": 0.076,
+    "enn_1e-3": 0.101,
+    "solution": 2.021,
+    "spec_gap": 2.846,
+    "spec_gap_ratio": 5.012
+  },
+  "CrlNetworkServices.gml": {
+    "enn_1e-2": 0.091,
+    "enn_1e-3": 0.107,
+    "solution": 0.259,
+    "spec_gap": 0.605,
+    "spec_gap_ratio": 23.537
+  },
+  "Cudi.gml": {
+    "enn_1e-2": 0.362,
+    "enn_1e-3": 0.423,
+    "solution": 0.014,
+    "spec_gap": 1.19,
+    "spec_gap_ratio": 3.5666094046583286e+34
+  },
+  "Cwix.gml": {
+    "enn_1e-2": 0.076,
+    "enn_1e-3": 0.107,
+    "solution": 0.284,
+    "spec_gap": 0.377,
+    "spec_gap_ratio": 7.508450256659811e+32
+  },
+  "Cynet.gml": {
+    "enn_1e-2": 0.402,
+    "enn_1e-3": 0.459,
+    "solution": 0.029,
+    "spec_gap": 1.265,
+    "spec_gap_ratio": 1.1505211984835618e+35
+  },
+  "Darkstrand.gml": {
+    "enn_1e-2": 0.097,
+    "enn_1e-3": 0.111,
+    "solution": 0.303,
+    "spec_gap": 0.291,
+    "spec_gap_ratio": 5.107
+  },
+  "Dataxchange.gml": {
+    "enn_1e-2": 0.028,
+    "enn_1e-3": 0.065,
+    "solution": 13.348,
+    "spec_gap": 10.103,
+    "spec_gap_ratio": 1.0
+  },
+  "Deltacom.gml": {
+    "enn_1e-2": 0.064,
+    "enn_1e-3": 0.086,
+    "solution": 0.182,
+    "spec_gap": 0.66,
+    "spec_gap_ratio": 8.438304142083473e+31
+  },
+  "Dfn.gml": {
+    "enn_1e-2": 0.242,
+    "enn_1e-3": 0.08,
+    "solution": 0.341,
+    "spec_gap": 3.753,
+    "spec_gap_ratio": 2.1340625874535328e+32
+  },
+  "Digex.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.109,
+    "solution": 0.483,
+    "spec_gap": 0.373,
+    "spec_gap_ratio": 20.137
+  },
+  "Easynet.gml": {
+    "enn_1e-2": 0.064,
+    "enn_1e-3": 0.089,
+    "solution": 0.826,
+    "spec_gap": 0.975,
+    "spec_gap_ratio": 4.496098596177314e+17
+  },
+  "Eenet.gml": {
+    "enn_1e-2": 0.761,
+    "enn_1e-3": 0.792,
+    "solution": 0.074,
+    "spec_gap": 1.239,
+    "spec_gap_ratio": 7.628248581074166e+33
+  },
+  "EliBackbone.gml": {
+    "enn_1e-2": 0.059,
+    "enn_1e-3": 0.081,
+    "solution": 1.109,
+    "spec_gap": 1.863,
+    "spec_gap_ratio": 16.353
+  },
+  "Epoch.gml": {
+    "enn_1e-2": 0.087,
+    "enn_1e-3": 0.106,
+    "solution": 6.321,
+    "spec_gap": 2.828,
+    "spec_gap_ratio": 2.414
+  },
+  "Ernet.gml": {
+    "enn_1e-2": 0.078,
+    "enn_1e-3": 0.114,
+    "solution": 0.31,
+    "spec_gap": 2.344,
+    "spec_gap_ratio": 7.838622388993203e+32
+  },
+  "Esnet.gml": {
+    "enn_1e-2": 0.064,
+    "enn_1e-3": 0.108,
+    "solution": 0.032,
+    "spec_gap": 1.412,
+    "spec_gap_ratio": 1.1390758977602542e+33
+  },
+  "Evolink.gml": {
+    "enn_1e-2": 0.043,
+    "enn_1e-3": 0.099,
+    "solution": 0.409,
+    "spec_gap": 3.967,
+    "spec_gap_ratio": 1.0659076544571996e+33
+  },
+  "Fatman.gml": {
+    "enn_1e-2": 0.058,
+    "enn_1e-3": 0.098,
+    "solution": 0.373,
+    "spec_gap": 3.874,
+    "spec_gap_ratio": 1.0905444235327084e+33
+  },
+  "Fccn.gml": {
+    "enn_1e-2": 0.067,
+    "enn_1e-3": 0.111,
+    "solution": 0.639,
+    "spec_gap": 1.69,
+    "spec_gap_ratio": 5.084582849417308e+33
+  },
+  "Forthnet.gml": {
+    "enn_1e-2": 0.027,
+    "enn_1e-3": 0.122,
+    "solution": 0.065,
+    "spec_gap": 3.114,
+    "spec_gap_ratio": 9.776544974321262e+33
+  },
+  "Funet.gml": {
+    "enn_1e-2": 0.089,
+    "enn_1e-3": 0.107,
+    "solution": 0.42,
+    "spec_gap": 0.407,
+    "spec_gap_ratio": 6963220687434204.0
+  },
+  "Gambia.gml": {
+    "enn_1e-2": 0.427,
+    "enn_1e-3": 0.464,
+    "solution": 0.034,
+    "spec_gap": 1.456,
+    "spec_gap_ratio": 1.607372978821329e+34
+  },
+  "Garr199901.gml": {
+    "enn_1e-2": 0.067,
+    "enn_1e-3": 0.107,
+    "solution": 1.63,
+    "spec_gap": 4.642,
+    "spec_gap_ratio": 1.537269124920505e+33
+  },
+  "Garr199904.gml": {
+    "enn_1e-2": 0.058,
+    "enn_1e-3": 0.11,
+    "solution": 1.089,
+    "spec_gap": 4.475,
+    "spec_gap_ratio": 1.613442945276044e+33
+  },
+  "Garr199905.gml": {
+    "enn_1e-2": 0.058,
+    "enn_1e-3": 0.11,
+    "solution": 1.104,
+    "spec_gap": 4.475,
+    "spec_gap_ratio": 9.001209706366388e+32
+  },
+  "Garr200109.gml": {
+    "enn_1e-2": 0.058,
+    "enn_1e-3": 0.11,
+    "solution": 0.682,
+    "spec_gap": 4.297,
+    "spec_gap_ratio": 1.4611342730685847e+33
+  },
+  "Garr200112.gml": {
+    "enn_1e-2": 0.056,
+    "enn_1e-3": 0.111,
+    "solution": 0.659,
+    "spec_gap": 4.319,
+    "spec_gap_ratio": 4.8503767727266765e+33
+  },
+  "Garr200212.gml": {
+    "enn_1e-2": 0.061,
+    "enn_1e-3": 0.116,
+    "solution": 0.397,
+    "spec_gap": 3.656,
+    "spec_gap_ratio": 2.826174983304629e+33
+  },
+  "Garr200404.gml": {
+    "enn_1e-2": 0.06,
+    "enn_1e-3": 0.11,
+    "solution": 1.097,
+    "spec_gap": 4.466,
+    "spec_gap_ratio": 3.980709461627966e+33
+  },
+  "Garr200902.gml": {
+    "enn_1e-2": 0.322,
+    "enn_1e-3": 0.426,
+    "solution": 0.017,
+    "spec_gap": 2.777,
+    "spec_gap_ratio": 1.231162907299041e+34
+  },
+  "Garr200908.gml": {
+    "enn_1e-2": 0.419,
+    "enn_1e-3": 0.512,
+    "solution": 0.016,
+    "spec_gap": 2.332,
+    "spec_gap_ratio": 9.628491636077649e+33
+  },
+  "Garr200909.gml": {
+    "enn_1e-2": 0.427,
+    "enn_1e-3": 0.521,
+    "solution": 0.017,
+    "spec_gap": 2.332,
+    "spec_gap_ratio": 1.3903523261167496e+34
+  },
+  "Garr200912.gml": {
+    "enn_1e-2": 0.42,
+    "enn_1e-3": 0.513,
+    "solution": 0.017,
+    "spec_gap": 2.348,
+    "spec_gap_ratio": 2.6889064139724865e+34
+  },
+  "Garr201001.gml": {
+    "enn_1e-2": 0.412,
+    "enn_1e-3": 0.504,
+    "solution": 0.017,
+    "spec_gap": 2.38,
+    "spec_gap_ratio": 3.7778534366931317e+34
+  },
+  "Garr201003.gml": {
+    "enn_1e-2": 0.412,
+    "enn_1e-3": 0.504,
+    "solution": 0.017,
+    "spec_gap": 2.38,
+    "spec_gap_ratio": 2.809751407787665e+34
+  },
+  "Garr201004.gml": {
+    "enn_1e-2": 0.429,
+    "enn_1e-3": 0.521,
+    "solution": 0.018,
+    "spec_gap": 2.327,
+    "spec_gap_ratio": 1.6279943982387265e+34
+  },
+  "Garr201005.gml": {
+    "enn_1e-2": 0.437,
+    "enn_1e-3": 0.531,
+    "solution": 0.016,
+    "spec_gap": 2.327,
+    "spec_gap_ratio": 4.720893701293023e+34
+  },
+  "Garr201007.gml": {
+    "enn_1e-2": 0.436,
+    "enn_1e-3": 0.53,
+    "solution": 0.016,
+    "spec_gap": 2.327,
+    "spec_gap_ratio": 3.530815628455198e+34
+  },
+  "Garr201008.gml": {
+    "enn_1e-2": 0.436,
+    "enn_1e-3": 0.53,
+    "solution": 0.016,
+    "spec_gap": 2.327,
+    "spec_gap_ratio": 6.8388421447836675e+34
+  },
+  "Garr201010.gml": {
+    "enn_1e-2": 0.444,
+    "enn_1e-3": 0.54,
+    "solution": 0.015,
+    "spec_gap": 2.327,
+    "spec_gap_ratio": 1.8708239285977972e+34
+  },
+  "Garr201012.gml": {
+    "enn_1e-2": 0.588,
+    "enn_1e-3": 0.679,
+    "solution": 0.015,
+    "spec_gap": 2.261,
+    "spec_gap_ratio": 9.680282983936042e+34
+  },
+  "Garr201101.gml": {
+    "enn_1e-2": 0.588,
+    "enn_1e-3": 0.679,
+    "solution": 0.015,
+    "spec_gap": 2.261,
+    "spec_gap_ratio": 3.4417276408743673e+34
+  },
+  "Garr201102.gml": {
+    "enn_1e-2": 0.551,
+    "enn_1e-3": 0.63,
+    "solution": 0.014,
+    "spec_gap": 2.261,
+    "spec_gap_ratio": 1.2004795423333416e+35
+  },
+  "Garr201103.gml": {
+    "enn_1e-2": 0.509,
+    "enn_1e-3": 0.588,
+    "solution": 0.015,
+    "spec_gap": 2.417,
+    "spec_gap_ratio": 1.7515475359637427e+35
+  },
+  "Garr201104.gml": {
+    "enn_1e-2": 0.481,
+    "enn_1e-3": 0.553,
+    "solution": 0.015,
+    "spec_gap": 2.358,
+    "spec_gap_ratio": 1.838358368914044e+34
+  },
+  "Garr201105.gml": {
+    "enn_1e-2": 0.444,
+    "enn_1e-3": 0.521,
+    "solution": 0.015,
+    "spec_gap": 2.582,
+    "spec_gap_ratio": 1.925099908592968e+34
+  },
+  "Garr201107.gml": {
+    "enn_1e-2": 0.48,
+    "enn_1e-3": 0.552,
+    "solution": 0.015,
+    "spec_gap": 2.359,
+    "spec_gap_ratio": 3.3581871810826775e+34
+  },
+  "Garr201108.gml": {
+    "enn_1e-2": 0.465,
+    "enn_1e-3": 0.532,
+    "solution": 0.016,
+    "spec_gap": 2.357,
+    "spec_gap_ratio": 5.153242680908113e+34
+  },
+  "Garr201109.gml": {
+    "enn_1e-2": 0.417,
+    "enn_1e-3": 0.486,
+    "solution": 0.016,
+    "spec_gap": 2.504,
+    "spec_gap_ratio": 1.3641091716258798e+34
+  },
+  "Garr201110.gml": {
+    "enn_1e-2": 0.44,
+    "enn_1e-3": 0.504,
+    "solution": 0.017,
+    "spec_gap": 2.093,
+    "spec_gap_ratio": 9.680094609204707e+33
+  },
+  "Garr201111.gml": {
+    "enn_1e-2": 0.44,
+    "enn_1e-3": 0.504,
+    "solution": 0.016,
+    "spec_gap": 1.971,
+    "spec_gap_ratio": 7.322251035594661e+33
+  },
+  "Garr201112.gml": {
+    "enn_1e-2": 0.447,
+    "enn_1e-3": 0.512,
+    "solution": 0.016,
+    "spec_gap": 1.971,
+    "spec_gap_ratio": 1.606077941918052e+34
+  },
+  "Garr201201.gml": {
+    "enn_1e-2": 0.486,
+    "enn_1e-3": 0.559,
+    "solution": 0.015,
+    "spec_gap": 2.228,
+    "spec_gap_ratio": 3.95252636749177e+34
+  },
+  "Gblnet.gml": {
+    "enn_1e-2": 0.118,
+    "enn_1e-3": 0.14,
+    "solution": 2.704,
+    "spec_gap": 2.0,
+    "spec_gap_ratio": 9.057169432409994e+16
+  },
+  "Geant2001.gml": {
+    "enn_1e-2": 0.268,
+    "enn_1e-3": 0.338,
+    "solution": 0.039,
+    "spec_gap": 2.743,
+    "spec_gap_ratio": 1.9786112888255918e+34
+  },
+  "Geant2009.gml": {
+    "enn_1e-2": 0.072,
+    "enn_1e-3": 0.1,
+    "solution": 0.498,
+    "spec_gap": 1.855,
+    "spec_gap_ratio": 1.2513323646481448e+17
+  },
+  "Geant2010.gml": {
+    "enn_1e-2": 0.062,
+    "enn_1e-3": 0.091,
+    "solution": 0.496,
+    "spec_gap": 1.549,
+    "spec_gap_ratio": 1.0077701848070949e+19
+  },
+  "Geant2012.gml": {
+    "enn_1e-2": 0.068,
+    "enn_1e-3": 0.1,
+    "solution": 0.221,
+    "spec_gap": 1.693,
+    "spec_gap_ratio": 4.346710907962527e+32
+  },
+  "Getnet.gml": {
+    "enn_1e-2": 0.087,
+    "enn_1e-3": 0.107,
+    "solution": 4.358,
+    "spec_gap": 3.338,
+    "spec_gap_ratio": 4.319
+  },
+  "Globalcenter.gml": {
+    "enn_1e-2": -0.067,
+    "enn_1e-3": 0.024,
+    "solution": 23.789,
+    "spec_gap": 18.0,
+    "spec_gap_ratio": 1.0
+  },
+  "Globenet.gml": {
+    "enn_1e-2": 0.06,
+    "enn_1e-3": 0.086,
+    "solution": 0.082,
+    "spec_gap": 0.993,
+    "spec_gap_ratio": 9783052919351472.0
+  },
+  "Goodnet.gml": {
+    "enn_1e-2": -0.028,
+    "enn_1e-3": 0.064,
+    "solution": 2.491,
+    "spec_gap": 6.932,
+    "spec_gap_ratio": 7.187542429862753e+16
+  },
+  "Grena.gml": {
+    "enn_1e-2": 0.115,
+    "enn_1e-3": 0.132,
+    "solution": 0.366,
+    "spec_gap": 0.349,
+    "spec_gap_ratio": 9948353197375804.0
+  },
+  "Gridnet.gml": {
+    "enn_1e-2": 0.016,
+    "enn_1e-3": 0.053,
+    "solution": 7.966,
+    "spec_gap": 4.034,
+    "spec_gap_ratio": 1.0181756583256558e+16
+  },
+  "Grnet.gml": {
+    "enn_1e-2": 0.644,
+    "enn_1e-3": 0.784,
+    "solution": 0.037,
+    "spec_gap": 3.869,
+    "spec_gap_ratio": 6.253639685134934e+33
+  },
+  "GtsCzechRepublic.gml": {
+    "enn_1e-2": 0.097,
+    "enn_1e-3": 0.119,
+    "solution": 0.235,
+    "spec_gap": 1.264,
+    "spec_gap_ratio": 8.809941723915934e+32
+  },
+  "GtsHungary.gml": {
+    "enn_1e-2": 0.053,
+    "enn_1e-3": 0.116,
+    "solution": 0.235,
+    "spec_gap": 4.073,
+    "spec_gap_ratio": 2.919046735015782e+33
+  },
+  "GtsPoland.gml": {
+    "enn_1e-2": 0.09,
+    "enn_1e-3": 0.109,
+    "solution": 0.315,
+    "spec_gap": 0.889,
+    "spec_gap_ratio": 2.0768106917774902e+17
+  },
+  "GtsRomania.gml": {
+    "enn_1e-2": 0.065,
+    "enn_1e-3": 0.106,
+    "solution": 0.994,
+    "spec_gap": 3.655,
+    "spec_gap_ratio": 5.0613757835576624e+32
+  },
+  "GtsSlovakia.gml": {
+    "enn_1e-2": 0.052,
+    "enn_1e-3": 0.113,
+    "solution": 0.185,
+    "spec_gap": 2.428,
+    "spec_gap_ratio": 2.7423681822988994e+33
+  },
+  "Harnet.gml": {
+    "enn_1e-2": 0.094,
+    "enn_1e-3": 0.125,
+    "solution": 0.201,
+    "spec_gap": 1.353,
+    "spec_gap_ratio": 5.752074391581775e+32
+  },
+  "Heanet.gml": {
+    "enn_1e-2": 0.047,
+    "enn_1e-3": 0.077,
+    "solution": 7.609,
+    "spec_gap": 5.491,
+    "spec_gap_ratio": 1.5082167917503788e+16
+  },
+  "HiberniaCanada.gml": {
+    "enn_1e-2": 0.098,
+    "enn_1e-3": 0.114,
+    "solution": 1.595,
+    "spec_gap": 0.607,
+    "spec_gap_ratio": 7.0
+  },
+  "HiberniaGlobal.gml": {
+    "enn_1e-2": 0.061,
+    "enn_1e-3": 0.083,
+    "solution": 0.095,
+    "spec_gap": 1.388,
+    "spec_gap_ratio": 1.1304901706264652e+16
+  },
+  "HiberniaIreland.gml": {
+    "enn_1e-2": 0.106,
+    "enn_1e-3": 0.123,
+    "solution": 3.204,
+    "spec_gap": 1.769,
+    "spec_gap_ratio": 6.493907752292932e+16
+  },
+  "HiberniaNireland.gml": {
+    "enn_1e-2": 0.09,
+    "enn_1e-3": 0.105,
+    "solution": 0.688,
+    "spec_gap": 0.543,
+    "spec_gap_ratio": 8.175444225264093e+16
+  },
+  "HiberniaUk.gml": {
+    "enn_1e-2": 0.109,
+    "enn_1e-3": 0.123,
+    "solution": 1.207,
+    "spec_gap": 0.544,
+    "spec_gap_ratio": 5.115
+  },
+  "HiberniaUs.gml": {
+    "enn_1e-2": 0.072,
+    "enn_1e-3": 0.093,
+    "solution": 0.527,
+    "spec_gap": 1.318,
+    "spec_gap_ratio": 23.996
+  },
+  "Highwinds.gml": {
+    "enn_1e-2": 0.028,
+    "enn_1e-3": 0.07,
+    "solution": 1.144,
+    "spec_gap": 3.797,
+    "spec_gap_ratio": 7909876841776437.0
+  },
+  "HostwayInternational.gml": {
+    "enn_1e-2": 0.074,
+    "enn_1e-3": 0.093,
+    "solution": 0.768,
+    "spec_gap": 1.754,
+    "spec_gap_ratio": 4.871340812729609e+16
+  },
+  "HurricaneElectric.gml": {
+    "enn_1e-2": 0.039,
+    "enn_1e-3": 0.078,
+    "solution": 0.918,
+    "spec_gap": 2.819,
+    "spec_gap_ratio": 5.603585574190023e+32
+  },
+  "Ibm.gml": {
+    "enn_1e-2": 0.074,
+    "enn_1e-3": 0.092,
+    "solution": 1.519,
+    "spec_gap": 1.61,
+    "spec_gap_ratio": 4.8
+  },
+  "Iij.gml": {
+    "enn_1e-2": 1.088,
+    "enn_1e-3": 1.138,
+    "solution": 0.15,
+    "spec_gap": 1.284,
+    "spec_gap_ratio": 5.316030834879549e+34
+  },
+  "Iinet.gml": {
+    "enn_1e-2": 0.057,
+    "enn_1e-3": 0.106,
+    "solution": 0.516,
+    "spec_gap": 3.3,
+    "spec_gap_ratio": 2.2670096912767537e+33
+  },
+  "Ilan.gml": {
+    "enn_1e-2": 0.273,
+    "enn_1e-3": 0.306,
+    "solution": 0.631,
+    "spec_gap": 1.137,
+    "spec_gap_ratio": 2.5263058785140015e+33
+  },
+  "Integra.gml": {
+    "enn_1e-2": 0.072,
+    "enn_1e-3": 0.092,
+    "solution": 0.788,
+    "spec_gap": 0.782,
+    "spec_gap_ratio": 1.381182797481253e+16
+  },
+  "Intellifiber.gml": {
+    "enn_1e-2": 0.073,
+    "enn_1e-3": 0.094,
+    "solution": 0.091,
+    "spec_gap": 0.484,
+    "spec_gap_ratio": 2.615341526427103e+32
+  },
+  "Internetmci.gml": {
+    "enn_1e-2": 1.208,
+    "enn_1e-3": 1.243,
+    "solution": 0.273,
+    "spec_gap": 1.255,
+    "spec_gap_ratio": 223.577
+  },
+  "Internode.gml": {
+    "enn_1e-2": 0.121,
+    "enn_1e-3": 0.154,
+    "solution": 0.017,
+    "spec_gap": 1.592,
+    "spec_gap_ratio": 3.9717874931977206e+33
+  },
+  "Interoute.gml": {
+    "enn_1e-2": 0.073,
+    "enn_1e-3": 0.092,
+    "solution": 0.121,
+    "spec_gap": 0.34,
+    "spec_gap_ratio": 4.399918501773559e+32
+  },
+  "Intranetwork.gml": {
+    "enn_1e-2": 0.073,
+    "enn_1e-3": 0.094,
+    "solution": 0.104,
+    "spec_gap": 1.009,
+    "spec_gap_ratio": 2.8703707497526172e+16
+  },
+  "IowaStatewideFiberMap.gml": {
+    "enn_1e-2": 0.08,
+    "enn_1e-3": 0.099,
+    "solution": 0.412,
+    "spec_gap": 0.37,
+    "spec_gap_ratio": 7.016336197377583e+16
+  },
+  "Iris.gml": {
+    "enn_1e-2": 0.079,
+    "enn_1e-3": 0.098,
+    "solution": 0.082,
+    "spec_gap": 0.985,
+    "spec_gap_ratio": 30.371
+  },
+  "Istar.gml": {
+    "enn_1e-2": 0.506,
+    "enn_1e-3": 0.566,
+    "solution": 0.041,
+    "spec_gap": 2.34,
+    "spec_gap_ratio": 2.5759788531422706e+34
+  },
+  "Itnet.gml": {
+    "enn_1e-2": 0.083,
+    "enn_1e-3": 0.132,
+    "solution": 2.517,
+    "spec_gap": 6.325,
+    "spec_gap_ratio": 1.1852650561629319e+33
+  },
+  "Janetbackbone.gml": {
+    "enn_1e-2": 0.041,
+    "enn_1e-3": 0.078,
+    "solution": 0.696,
+    "spec_gap": 2.224,
+    "spec_gap_ratio": 5577339411474286.0
+  },
+  "Janetlense.gml": {
+    "enn_1e-2": 0.66,
+    "enn_1e-3": 0.746,
+    "solution": 0.213,
+    "spec_gap": 3.981,
+    "spec_gap_ratio": 5.996444852212814e+34
+  },
+  "Jgn2Plus.gml": {
+    "enn_1e-2": 0.101,
+    "enn_1e-3": 0.129,
+    "solution": 0.31,
+    "spec_gap": 1.915,
+    "spec_gap_ratio": 8.877987436271285e+32
+  },
+  "Karen.gml": {
+    "enn_1e-2": 0.141,
+    "enn_1e-3": 0.17,
+    "solution": 0.233,
+    "spec_gap": 1.209,
+    "spec_gap_ratio": 1.976124050866186e+33
+  },
+  "KentmanFeb2008.gml": {
+    "enn_1e-2": 0.356,
+    "enn_1e-3": 0.453,
+    "solution": 0.022,
+    "spec_gap": 3.465,
+    "spec_gap_ratio": 9.251482134001606e+34
+  },
+  "KentmanJan2011.gml": {
+    "enn_1e-2": 1.026,
+    "enn_1e-3": 1.123,
+    "solution": 0.013,
+    "spec_gap": 1.485,
+    "spec_gap_ratio": 2.3074761998441926e+35
+  },
+  "KentmanJul2005.gml": {
+    "enn_1e-2": 0.164,
+    "enn_1e-3": 0.191,
+    "solution": 0.57,
+    "spec_gap": 1.316,
+    "spec_gap_ratio": 1.531362427359936e+33
+  },
+  "Kreonet.gml": {
+    "enn_1e-2": 0.684,
+    "enn_1e-3": 0.732,
+    "solution": 0.652,
+    "spec_gap": 2.408,
+    "spec_gap_ratio": 4.8407555272040754e+33
+  },
+  "LambdaNet.gml": {
+    "enn_1e-2": 0.096,
+    "enn_1e-3": 0.112,
+    "solution": 0.169,
+    "spec_gap": 0.215,
+    "spec_gap_ratio": 3.195383653683798e+32
+  },
+  "Latnet.gml": {
+    "enn_1e-2": -0.088,
+    "enn_1e-3": 0.111,
+    "solution": 0.063,
+    "spec_gap": 6.353,
+    "spec_gap_ratio": 7.849920832945754e+33
+  },
+  "Layer42.gml": {
+    "enn_1e-2": 0.084,
+    "enn_1e-3": 0.105,
+    "solution": 4.571,
+    "spec_gap": 3.464,
+    "spec_gap_ratio": 2.732
+  },
+  "Litnet.gml": {
+    "enn_1e-2": 2.362,
+    "enn_1e-3": 2.434,
+    "solution": 0.004,
+    "spec_gap": 0.092,
+    "spec_gap_ratio": 2.629570442553339e+35
+  },
+  "Marnet.gml": {
+    "enn_1e-2": 0.06,
+    "enn_1e-3": 0.131,
+    "solution": 1.051,
+    "spec_gap": 5.434,
+    "spec_gap_ratio": 3.3373035867539846e+33
+  },
+  "Marwan.gml": {
+    "enn_1e-2": 0.164,
+    "enn_1e-3": 0.193,
+    "solution": 0.438,
+    "spec_gap": 1.698,
+    "spec_gap_ratio": 1.7865139342095926e+17
+  },
+  "Missouri.gml": {
+    "enn_1e-2": 0.08,
+    "enn_1e-3": 0.099,
+    "solution": 0.08,
+    "spec_gap": 0.099,
+    "spec_gap_ratio": 1.8724985988485328e+17
+  },
+  "Mren.gml": {
+    "enn_1e-2": 0.121,
+    "enn_1e-3": 0.147,
+    "solution": 3.999,
+    "spec_gap": 4.472,
+    "spec_gap_ratio": 9816500356093908.0
+  },
+  "Myren.gml": {
+    "enn_1e-2": 1.115,
+    "enn_1e-3": 1.253,
+    "solution": 0.019,
+    "spec_gap": 3.4,
+    "spec_gap_ratio": 2.183936784460692e+35
+  },
+  "Napnet.gml": {
+    "enn_1e-2": 0.082,
+    "enn_1e-3": 0.105,
+    "solution": 5.465,
+    "spec_gap": 4.569,
+    "spec_gap_ratio": 5.316
+  },
+  "Navigata.gml": {
+    "enn_1e-2": 0.058,
+    "enn_1e-3": 0.092,
+    "solution": 1.451,
+    "spec_gap": 3.392,
+    "spec_gap_ratio": 3.562133635454057e+32
+  },
+  "Netrail.gml": {
+    "enn_1e-2": 0.063,
+    "enn_1e-3": 0.085,
+    "solution": 6.97,
+    "spec_gap": 3.941,
+    "spec_gap_ratio": 5.699
+  },
+  "NetworkUsa.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.111,
+    "solution": 0.31,
+    "spec_gap": 0.407,
+    "spec_gap_ratio": 14.756
+  },
+  "Nextgen.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.11,
+    "solution": 0.511,
+    "spec_gap": 0.48,
+    "spec_gap_ratio": 1.0724229609401608e+16
+  },
+  "Niif.gml": {
+    "enn_1e-2": 0.441,
+    "enn_1e-3": 0.587,
+    "solution": 0.04,
+    "spec_gap": 4.84,
+    "spec_gap_ratio": 2.3961086503598096e+34
+  },
+  "Noel.gml": {
+    "enn_1e-2": 0.07,
+    "enn_1e-3": 0.093,
+    "solution": 0.876,
+    "spec_gap": 2.119,
+    "spec_gap_ratio": 9.928
+  },
+  "Nordu1989.gml": {
+    "enn_1e-2": 0.141,
+    "enn_1e-3": 0.171,
+    "solution": 2.529,
+    "spec_gap": 4.206,
+    "spec_gap_ratio": 1.3835723380102522e+16
+  },
+  "Nordu1997.gml": {
+    "enn_1e-2": 0.085,
+    "enn_1e-3": 0.13,
+    "solution": 1.416,
+    "spec_gap": 3.23,
+    "spec_gap_ratio": 2.563930253812167e+33
+  },
+  "Nordu2005.gml": {
+    "enn_1e-2": 0.248,
+    "enn_1e-3": 0.285,
+    "solution": 1.616,
+    "spec_gap": 3.473,
+    "spec_gap_ratio": 3.5913728911106554e+32
+  },
+  "Nsfnet.gml": {
+    "enn_1e-2": 0.089,
+    "enn_1e-3": 0.106,
+    "solution": 2.006,
+    "spec_gap": 2.108,
+    "spec_gap_ratio": 10.072
+  },
+  "Oxford.gml": {
+    "enn_1e-2": 0.076,
+    "enn_1e-3": 0.094,
+    "solution": 0.659,
+    "spec_gap": 1.64,
+    "spec_gap_ratio": 7.031
+  },
+  "Pacificwave.gml": {
+    "enn_1e-2": 0.073,
+    "enn_1e-3": 0.109,
+    "solution": 0.681,
+    "spec_gap": 2.589,
+    "spec_gap_ratio": 3.834662322144077e+32
+  },
+  "Packetexchange.gml": {
+    "enn_1e-2": 0.077,
+    "enn_1e-3": 0.095,
+    "solution": 0.25,
+    "spec_gap": 0.504,
+    "spec_gap_ratio": 14.74
+  },
+  "Palmetto.gml": {
+    "enn_1e-2": 0.067,
+    "enn_1e-3": 0.086,
+    "solution": 0.317,
+    "spec_gap": 0.73,
+    "spec_gap_ratio": 55.187
+  },
+  "Peer1.gml": {
+    "enn_1e-2": 0.077,
+    "enn_1e-3": 0.098,
+    "solution": 1.417,
+    "spec_gap": 2.271,
+    "spec_gap_ratio": 9.818
+  },
+  "Pern.gml": {
+    "enn_1e-2": -0.147,
+    "enn_1e-3": 0.113,
+    "solution": 0.012,
+    "spec_gap": 0.394,
+    "spec_gap_ratio": 6.078194713076355e+33
+  },
+  "PionierL1.gml": {
+    "enn_1e-2": 0.091,
+    "enn_1e-3": 0.108,
+    "solution": 0.26,
+    "spec_gap": 0.693,
+    "spec_gap_ratio": 1.2128942554198972e+16
+  },
+  "PionierL3.gml": {
+    "enn_1e-2": 1.777,
+    "enn_1e-3": 1.816,
+    "solution": 0.045,
+    "spec_gap": 1.412,
+    "spec_gap_ratio": 1.9255138306079506e+33
+  },
+  "Psinet.gml": {
+    "enn_1e-2": 0.102,
+    "enn_1e-3": 0.118,
+    "solution": 0.299,
+    "spec_gap": 0.516,
+    "spec_gap_ratio": 1.1968115496158963e+17
+  },
+  "Quest.gml": {
+    "enn_1e-2": 0.05,
+    "enn_1e-3": 0.078,
+    "solution": 1.266,
+    "spec_gap": 2.765,
+    "spec_gap_ratio": 10.729
+  },
+  "RedBestel.gml": {
+    "enn_1e-2": 0.094,
+    "enn_1e-3": 0.111,
+    "solution": 0.038,
+    "spec_gap": 0.943,
+    "spec_gap_ratio": 8.009792698873034e+31
+  },
+  "Rediris.gml": {
+    "enn_1e-2": 0.342,
+    "enn_1e-3": 0.408,
+    "solution": 0.165,
+    "spec_gap": 3.802,
+    "spec_gap_ratio": 6690.681
+  },
+  "Renater1999.gml": {
+    "enn_1e-2": 0.139,
+    "enn_1e-3": 0.18,
+    "solution": 0.226,
+    "spec_gap": 2.844,
+    "spec_gap_ratio": 1.2084460305306319e+33
+  },
+  "Renater2001.gml": {
+    "enn_1e-2": 2.398,
+    "enn_1e-3": 2.478,
+    "solution": 0.042,
+    "spec_gap": 1.937,
+    "spec_gap_ratio": 5.624818615465331e+33
+  },
+  "Renater2004.gml": {
+    "enn_1e-2": 0.071,
+    "enn_1e-3": 0.113,
+    "solution": 0.429,
+    "spec_gap": 2.547,
+    "spec_gap_ratio": 4.5040911115612054e+33
+  },
+  "Renater2006.gml": {
+    "enn_1e-2": 0.059,
+    "enn_1e-3": 0.093,
+    "solution": 0.431,
+    "spec_gap": 2.54,
+    "spec_gap_ratio": 1.0068522737486894e+33
+  },
+  "Renater2008.gml": {
+    "enn_1e-2": 0.059,
+    "enn_1e-3": 0.093,
+    "solution": 0.431,
+    "spec_gap": 2.54,
+    "spec_gap_ratio": 6.570867722826577e+32
+  },
+  "Renater2010.gml": {
+    "enn_1e-2": 0.066,
+    "enn_1e-3": 0.094,
+    "solution": 0.295,
+    "spec_gap": 1.963,
+    "spec_gap_ratio": 4.404355908089971e+32
+  },
+  "Restena.gml": {
+    "enn_1e-2": 0.119,
+    "enn_1e-3": 0.154,
+    "solution": 0.673,
+    "spec_gap": 1.955,
+    "spec_gap_ratio": 2.1499779988726017e+33
+  },
+  "Reuna.gml": {
+    "enn_1e-2": 0.152,
+    "enn_1e-3": 0.173,
+    "solution": 0.03,
+    "spec_gap": 1.621,
+    "spec_gap_ratio": 6.296697167793881e+32
+  },
+  "Rhnet.gml": {
+    "enn_1e-2": 0.092,
+    "enn_1e-3": 0.109,
+    "solution": 0.758,
+    "spec_gap": 1.103,
+    "spec_gap_ratio": 9.071
+  },
+  "Rnp.gml": {
+    "enn_1e-2": 0.639,
+    "enn_1e-3": 0.669,
+    "solution": 0.04,
+    "spec_gap": 1.131,
+    "spec_gap_ratio": 4.921354094372725e+33
+  },
+  "Roedunet.gml": {
+    "enn_1e-2": 4.14,
+    "enn_1e-3": 4.289,
+    "solution": 0.017,
+    "spec_gap": 2.067,
+    "spec_gap_ratio": 8.442000584146416e+34
+  },
+  "RoedunetFibre.gml": {
+    "enn_1e-2": 0.092,
+    "enn_1e-3": 0.113,
+    "solution": 0.132,
+    "spec_gap": 0.262,
+    "spec_gap_ratio": 6.752854273372962e+32
+  },
+  "Sago.gml": {
+    "enn_1e-2": 0.117,
+    "enn_1e-3": 0.131,
+    "solution": 0.328,
+    "spec_gap": 0.49,
+    "spec_gap_ratio": 5.322
+  },
+  "Sanet.gml": {
+    "enn_1e-2": 0.105,
+    "enn_1e-3": 0.123,
+    "solution": 0.458,
+    "spec_gap": 0.78,
+    "spec_gap_ratio": 8.01852245128663e+32
+  },
+  "Sanren.gml": {
+    "enn_1e-2": 0.112,
+    "enn_1e-3": 0.125,
+    "solution": 3.577,
+    "spec_gap": 1.506,
+    "spec_gap_ratio": 1.604
+  },
+  "Savvis.gml": {
+    "enn_1e-2": 0.102,
+    "enn_1e-3": 0.117,
+    "solution": 0.526,
+    "spec_gap": 0.917,
+    "spec_gap_ratio": 7.131
+  },
+  "Shentel.gml": {
+    "enn_1e-2": 0.079,
+    "enn_1e-3": 0.098,
+    "solution": 0.42,
+    "spec_gap": 0.886,
+    "spec_gap_ratio": 26.767
+  },
+  "Sinet.gml": {
+    "enn_1e-2": 0.393,
+    "enn_1e-3": 0.446,
+    "solution": 0.045,
+    "spec_gap": 1.409,
+    "spec_gap_ratio": 5.351703822864152e+33
+  },
+  "Singaren.gml": {
+    "enn_1e-2": 0.117,
+    "enn_1e-3": 0.166,
+    "solution": 1.276,
+    "spec_gap": 5.671,
+    "spec_gap_ratio": 6.732333530751728e+32
+  },
+  "Spiralight.gml": {
+    "enn_1e-2": 0.101,
+    "enn_1e-3": 0.116,
+    "solution": 0.792,
+    "spec_gap": 0.929,
+    "spec_gap_ratio": 3.783
+  },
+  "Sprint.gml": {
+    "enn_1e-2": 0.045,
+    "enn_1e-3": 0.074,
+    "solution": 3.357,
+    "spec_gap": 3.74,
+    "spec_gap_ratio": 9.906
+  },
+  "Sunet.gml": {
+    "enn_1e-2": 0.082,
+    "enn_1e-3": 0.1,
+    "solution": 0.239,
+    "spec_gap": 0.266,
+    "spec_gap_ratio": 8.009
+  },
+  "Surfnet.gml": {
+    "enn_1e-2": 0.056,
+    "enn_1e-3": 0.089,
+    "solution": 0.346,
+    "spec_gap": 3.265,
+    "spec_gap_ratio": 2.558469849772805e+18
+  },
+  "Switch.gml": {
+    "enn_1e-2": 0.074,
+    "enn_1e-3": 0.098,
+    "solution": 0.062,
+    "spec_gap": 0.121,
+    "spec_gap_ratio": 6.3571087763864856e+32
+  },
+  "SwitchL3.gml": {
+    "enn_1e-2": 0.676,
+    "enn_1e-3": 0.733,
+    "solution": 0.044,
+    "spec_gap": 1.223,
+    "spec_gap_ratio": 2.6537375488769686e+33
+  },
+  "Syringa.gml": {
+    "enn_1e-2": 0.105,
+    "enn_1e-3": 0.123,
+    "solution": 0.04,
+    "spec_gap": 1.113,
+    "spec_gap_ratio": 5.201310801928502e+32
+  },
+  "TLex.gml": {
+    "enn_1e-2": 0.087,
+    "enn_1e-3": 0.121,
+    "solution": 2.136,
+    "spec_gap": 3.591,
+    "spec_gap_ratio": 1.2691829623744368e+33
+  },
+  "TataNld.gml": {
+    "enn_1e-2": 0.077,
+    "enn_1e-3": 0.096,
+    "solution": 0.11,
+    "spec_gap": 0.37,
+    "spec_gap_ratio": 2.1695759354560256e+18
+  },
+  "Telecomserbia.gml": {
+    "enn_1e-2": 0.12,
+    "enn_1e-3": 0.135,
+    "solution": 4.525,
+    "spec_gap": 2.0,
+    "spec_gap_ratio": 2.0
+  },
+  "Tinet.gml": {
+    "enn_1e-2": 0.02,
+    "enn_1e-3": 0.072,
+    "solution": 0.088,
+    "spec_gap": 2.653,
+    "spec_gap_ratio": 2410.198
+  },
+  "Twaren.gml": {
+    "enn_1e-2": 0.084,
+    "enn_1e-3": 0.121,
+    "solution": 0.506,
+    "spec_gap": 2.133,
+    "spec_gap_ratio": 3.560384087342132e+33
+  },
+  "Ulaknet.gml": {
+    "enn_1e-2": 4.767,
+    "enn_1e-3": 5.059,
+    "solution": 0.004,
+    "spec_gap": 2.193,
+    "spec_gap_ratio": 4.237173503156483e+36
+  },
+  "UniC.gml": {
+    "enn_1e-2": 0.095,
+    "enn_1e-3": 0.114,
+    "solution": 0.163,
+    "spec_gap": 0.318,
+    "spec_gap_ratio": 3.524579100597916e+32
+  },
+  "Uninet.gml": {
+    "enn_1e-2": 0.065,
+    "enn_1e-3": 0.088,
+    "solution": 2.07,
+    "spec_gap": 2.415,
+    "spec_gap_ratio": 10.698
+  },
+  "Uninett2010.gml": {
+    "enn_1e-2": 0.449,
+    "enn_1e-3": 0.553,
+    "solution": 0.015,
+    "spec_gap": 2.148,
+    "spec_gap_ratio": 1.4801518694660924e+33
+  },
+  "Uninett2011.gml": {
+    "enn_1e-2": 0.293,
+    "enn_1e-3": 0.38,
+    "solution": 0.019,
+    "spec_gap": 2.502,
+    "spec_gap_ratio": 1.5578669806824263e+33
+  },
+  "Uran.gml": {
+    "enn_1e-2": 0.912,
+    "enn_1e-3": 0.962,
+    "solution": 0.024,
+    "spec_gap": 0.866,
+    "spec_gap_ratio": 5.922775206523632e+33
+  },
+  "Uunet.gml": {
+    "enn_1e-2": 0.105,
+    "enn_1e-3": 0.068,
+    "solution": 0.374,
+    "spec_gap": 6.234,
+    "spec_gap_ratio": 1.1538975947714789e+33
+  },
+  "Vinaren.gml": {
+    "enn_1e-2": 0.494,
+    "enn_1e-3": 0.51,
+    "solution": 0.023,
+    "spec_gap": 0.152,
+    "spec_gap_ratio": 5.095301633758006e+34
+  },
+  "VisionNet.gml": {
+    "enn_1e-2": 0.113,
+    "enn_1e-3": 0.129,
+    "solution": 0.22,
+    "spec_gap": 0.291,
+    "spec_gap_ratio": 9.632
+  },
+  "VtlWavenet2008.gml": {
+    "enn_1e-2": 0.105,
+    "enn_1e-3": 0.118,
+    "solution": 0.112,
+    "spec_gap": 0.086,
+    "spec_gap_ratio": 4651128210727835.0
+  },
+  "VtlWavenet2011.gml": {
+    "enn_1e-2": 0.105,
+    "enn_1e-3": 0.118,
+    "solution": 0.075,
+    "spec_gap": 0.086,
+    "spec_gap_ratio": 16.018
+  },
+  "WideJpn.gml": {
+    "enn_1e-2": 0.161,
+    "enn_1e-3": 0.202,
+    "solution": 0.074,
+    "spec_gap": 1.559,
+    "spec_gap_ratio": 4.410442459871911e+33
+  },
+  "Xeex.gml": {
+    "enn_1e-2": 0.064,
+    "enn_1e-3": 0.086,
+    "solution": 0.893,
+    "spec_gap": 1.257,
+    "spec_gap_ratio": 15.932
+  },
+  "Xspedius.gml": {
+    "enn_1e-2": 0.063,
+    "enn_1e-3": 0.085,
+    "solution": 0.457,
+    "spec_gap": 1.353,
+    "spec_gap_ratio": 34.677
+  },
+  "York.gml": {
+    "enn_1e-2": 0.103,
+    "enn_1e-3": 0.118,
+    "solution": 0.31,
+    "spec_gap": 0.297,
+    "spec_gap_ratio": 7020635655013260.0
+  }
+}
